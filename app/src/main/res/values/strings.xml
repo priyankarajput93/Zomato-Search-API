@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hive Search</string>
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+    <string name="alert">Alert</string>
+    <string name="error_internet">Error! Connection Lost while Constructing this Screen </string>
+    <string name="ok">OK</string>
+    <string name="no_connection">No Connection</string>
+    <string name="check_your_wifi_or_internet_and_try_again">Check your wifi or internet \n and try again.</string>
+    <string name="search">Search</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="restaurant_address">Restaurant Address</string>
+    <string name="restaurant_amount">Restaurant Amount</string>
+    <string name="restaurant_timings">Restaurant Timings</string>
+    <string name="restaurant_type">Restaurant Type</string>
+    <string name="restaurant_rating">4.0</string>
+    <string name="cuisine_name">Cuisine Name</string>
+    <string name="order_now">Order Now</string>
+    <string name="closed_for_ordering">Closed For Ordering</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="not_rated">Not Rated</string>
+    <string name="default_rating">0.0</string>
+    <string formatted="false" name="average_cost_for_two">Average Cost : Rs %s For 2</string>
+
+</resources>
